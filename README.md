@@ -35,7 +35,8 @@ As Grace spends more time in the village, she rediscovers the beauty of slow mor
 
 ## 🌐 Read Online
 
-Coming soon at: **https://walusimbi-leon1.github.io/under-the-acacia-tree/**
+✅ **Read online:** https://walusimbi-leon1.github.io/under-the-acacia-tree/book.html
+- 📥 **[Download PDF](https://walusimbi-leon1.github.io/under-the-acacia-tree/Under%20the%20Acacia%20Tree.pdf)**
 
 ## 📚 Part of the SGSS Literary Collection
 
