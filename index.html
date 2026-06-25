@@ -3,61 +3,56 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Under the Acacia Tree — A Love Novel by Walusimbi Leon (SGSS)</title>
+<title>Under the Acacia Tree — By Walusimbi Leon (SGSS)</title>
 <style>
   :root { --primary: #27ae60; --primary-light: #d5f5e3; --accent: #2ecc71; --dark: #1a1a2e; --cream: #fdf6f0; --text: #2d2d2d; --text-light: #888; }
   * { margin: 0; padding: 0; box-sizing: border-box; }
   html { scroll-behavior: smooth; }
   body { font-family: 'Georgia', 'Times New Roman', serif; background: var(--cream); color: var(--text); line-height: 1.8; font-size: 18px; }
-  .hero { background: linear-gradient(135deg, var(--dark) 0%, var(--primary) 50%, #0d1b2a 100%); color: white; padding: 80px 20px 50px; text-align: center; position: relative; overflow: hidden; }
-  .hero::before { content: ''; position: absolute; top: 0; left: 0; right: 0; bottom: 0; background: radial-gradient(circle at 20% 50%, rgba(255,255,255,0.05) 0%, transparent 50%); }
+  .hero { background: linear-gradient(135deg, var(--dark) 0%, var(--primary) 50%, #0d1b2a 100%); color: white; padding: 80px 20px 50px; text-align: center; }
   .hero-emoji { font-size: 64px; display: block; margin-bottom: 20px; }
-  .hero h1 { font-size: 2.8em; margin-bottom: 10px; letter-spacing: 2px; position: relative; }
-  .hero .subtitle { font-size: 1.2em; opacity: 0.9; font-style: italic; margin-bottom: 8px; position: relative; }
-  .hero .author { font-size: 1em; opacity: 0.7; margin-bottom: 30px; position: relative; }
-  .hero .divider { width: 60px; height: 3px; background: var(--accent); margin: 15px auto; position: relative; }
+  .hero h1 { font-size: 2.8em; margin-bottom: 10px; letter-spacing: 2px; }
+  .hero .subtitle { font-size: 1.2em; opacity: 0.9; font-style: italic; margin-bottom: 8px; }
+  .hero .author { font-size: 1em; opacity: 0.7; margin-bottom: 30px; }
+  .hero .divider { width: 60px; height: 3px; background: var(--accent); margin: 15px auto; }
   .container { max-width: 800px; margin: 0 auto; padding: 40px 20px; }
-  .description { font-size: 1.1em; line-height: 2; margin-bottom: 40px; }
-  .description p { margin-bottom: 20px; }
-  .info-box { background: white; border-radius: 12px; padding: 30px; margin-bottom: 40px; box-shadow: 0 2px 15px rgba(0,0,0,0.06); border-left: 4px solid var(--primary); }
-  .info-box h3 { color: var(--primary); margin-bottom: 15px; font-size: 1.3em; }
-  .info-box table { width: 100%; border-collapse: collapse; }
-  .info-box td { padding: 8px 12px; border-bottom: 1px solid #f0f0f0; }
-  .info-box td:first-child { font-weight: bold; width: 120px; color: var(--text-light); }
-  .read-btn { display: inline-block; background: var(--primary); color: white; text-decoration: none; padding: 16px 40px; border-radius: 50px; font-size: 1.1em; font-weight: bold; transition: all 0.3s; margin: 10px 5px; }
-  .read-btn:hover { transform: translateY(-3px); box-shadow: 0 10px 25px rgba(0,0,0,0.15); }
-  .download-btn { display: inline-block; background: transparent; color: var(--primary); text-decoration: none; padding: 14px 38px; border-radius: 50px; font-size: 1.1em; font-weight: bold; border: 2px solid var(--primary); transition: all 0.3s; margin: 10px 5px; }
-  .download-btn:hover { background: var(--primary); color: white; }
+  .version-card { background: white; border-radius: 12px; padding: 30px; margin-bottom: 20px; box-shadow: 0 2px 15px rgba(0,0,0,0.06); border-left: 4px solid var(--primary); }
+  .version-card h2 { color: var(--primary); font-size: 1.4em; margin-bottom: 5px; }
+  .version-card .tag { display: inline-block; padding: 2px 12px; border-radius: 12px; font-size: 0.8em; font-weight: bold; margin-bottom: 10px; }
+  .tag.stable { background: var(--primary-light); color: var(--primary); }
+  .tag.wip { background: #fff3cd; color: #856404; }
+  .version-card p { color: var(--text-light); margin-bottom: 15px; }
+  .btn { display: inline-block; text-decoration: none; padding: 10px 24px; border-radius: 50px; font-size: 0.95em; font-weight: bold; transition: all 0.3s; margin: 3px; }
+  .btn-primary { background: var(--primary); color: white; }
+  .btn-primary:hover { transform: translateY(-2px); box-shadow: 0 6px 20px rgba(0,0,0,0.1); }
+  .btn-secondary { background: transparent; color: var(--primary); border: 2px solid var(--primary); }
+  .btn-secondary:hover { background: var(--primary); color: white; }
   .footer { text-align: center; padding: 40px 20px; color: var(--text-light); font-size: 0.9em; border-top: 1px solid #e8e0d8; margin-top: 40px; }
   .footer a { color: var(--primary); text-decoration: none; }
-  @media (max-width: 600px) { .hero h1 { font-size: 2em; } .hero-emoji { font-size: 48px; } .read-btn, .download-btn { display: block; text-align: center; } }
+  @media (max-width: 600px) { .hero h1 { font-size: 2em; } .hero-emoji { font-size: 48px; } }
 </style>
 </head>
 <body>
 <section class="hero">
   <span class="hero-emoji">🌳</span>
   <h1>Under the Acacia Tree</h1>
-  <div class="subtitle">Sometimes you have to go back to find where you belong.</div>
+  <div class="subtitle">A Love Novel</div>
   <div class="author">by Walusimbi Leon (SGSS)</div>
   <div class="divider"></div>
 </section>
 <div class="container">
-  <div class="description">
-    <p><em>Under the Acacia Tree</em> is a sweeping romantic novel that will capture your heart and stay with you long after the final page.</p>
+  <div class="version-card">
+    <span class="tag stable">📖 Published</span>
+    <h2>Version 1.0 — Original Release</h2>
+    <p>A tender romance about Grace Nabatanzi, who returns to her village after her grandmother's passing and rediscovers love, roots, and the beauty of slow mornings.</p>
+    <a href="v1.0/book.html" class="btn btn-primary" target="_blank">📖 Read Online</a>
+    <a href="v1.0/Under%20the%20Acacia%20Tree.pdf" class="btn btn-secondary" download>📥 Download PDF</a>
   </div>
-  <div class="info-box">
-    <h3>📋 Book Details</h3>
-    <table>
-      <tr><td>Title</td><td>Under the Acacia Tree</td></tr>
-      <tr><td>Author</td><td>Walusimbi Leon (SGSS)</td></tr>
-      <tr><td>Genre</td><td>Romance / Contemporary Fiction</td></tr>
-      <tr><td>License</td><td>CC0 1.0 Universal (Public Domain)</td></tr>
-      <tr><td>Pages</td><td>~70+</td></tr>
-    </table>
-  </div>
-  <div style="text-align:center;">
-    <a href="book.html" class="read-btn" target="_blank">📖 Read Online</a>
-    <a href="Under the Acacia Tree.pdf" class="download-btn" download="Under the Acacia Tree.pdf">📥 Download PDF</a>
+  <div class="version-card">
+    <span class="tag wip">🚧 In Progress</span>
+    <h2>Version 2.0 — New Iteration</h2>
+    <p>A fundamentally reimagined edition of the book. Coming soon.</p>
+    <a href="v2.0/" class="btn btn-secondary" style="opacity:0.6;cursor:default;">⏳ Coming Soon</a>
   </div>
 </div>
 <div class="footer">

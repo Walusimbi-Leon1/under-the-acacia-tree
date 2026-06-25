@@ -4,39 +4,65 @@
 
 ---
 
-## 📖 About the Book
+## 📖 About
 
-*Under the Acacia Tree* is a tender, heartfelt romance about returning to your roots — and finding love where you least expect it.
-
-Grace Nabatanzi left her small village in eastern Uganda at eighteen, chasing the dazzling lights of Kampala. Ten years later, she has built a successful life as a fashion designer, with a thriving boutique, a fashionable apartment, and a charming boyfriend who seems perfect on paper. But when her beloved grandmother passes away, Grace must return to the village she left behind to attend the funeral and settle her grandmother's affairs.
-
-Back in her childhood home, Grace is confronted by memories she had buried — and by Musa Ssempijja, the quiet, kind boy she grew up with. The boy she left without a goodbye. Now a man, Musa has become a respected teacher in the community, deeply rooted in the land and traditions Grace once couldn't wait to escape.
-
-As Grace spends more time in the village, she rediscovers the beauty of slow mornings, the warmth of community, and the steady, honest love that Musa has always carried for her. Meanwhile, her Kampala boyfriend grows increasingly distant, unable to understand why she would choose a dusty village over the city life they share.
-
-*Under the Acacia Tree* is a deeply moving story about choosing courage over convenience, authenticity over appearances, and the kind of love that grows slowly, like a tree — with deep roots that weather every storm.
+*Under the Acacia Tree* is a love novel about returning to your roots — and finding love where you least expect it. This repository contains the complete book in multiple formats.
 
 ## 📋 Book Details
 
 - **Title:** Under the Acacia Tree
 - **Author:** Walusimbi Leon (SGSS)
-- **Genre:** Romance / Contemporary Fiction / African Fiction
 - **License:** [CC0 1.0 Universal](LICENSE) (Public Domain)
-- **Pages:** ~70+
 
-## 📁 Repository Contents
+---
 
-| File | Description |
-|------|-------------|
-| `book.md` | Complete book (Markdown) |
-| `index.html` | GitHub Pages website |
-| `LICENSE` | CC0 1.0 Universal (Public Domain) |
-| `README.md` | This file |
+## 📦 Versioning
+
+This book follows a **Version.Update** format:
+
+| Scheme | Meaning | Example |
+|--------|---------|---------|
+| **v1.0** | Version 1, Update 0 | Original release |
+| **v1.1** | Version 1, Update 1 | Minor edits, same core story |
+| **v2.0** | Version 2, Update 0 | New iteration, fundamental changes |
+
+- **Version (first number):** A major change — the entire concept, focus, or iteration of the book shifts. Most content is rewritten.
+- **Update (second number):** A minor change — some text is added, revised, or polished without altering the book's core identity.
+
+Older versions are never deleted. Every published version lives in its own directory for reference.
+
+---
+
+## 📂 Repository Structure
+
+```
+under-the-acacia-tree/
+├── v1.0/            # Version 1.0 — Original release
+│   ├── book.md
+│   ├── book.html
+│   ├── Under the Acacia Tree.pdf
+│   └── index.html
+├── v2.0/            # Version 2.0 — Current iteration (in progress)
+│   └── ...
+├── LICENSE           # CC0 1.0 Universal (Public Domain)
+└── README.md         # This file
+```
+
+## 📚 Published Versions
+
+| Version | Description | Files |
+|---------|-------------|-------|
+| [v1.0](v1.0/) | Original release — a romance about Grace Nabatanzi returning to her village | [`book.md`](v1.0/book.md) · [`book.html`](v1.0/book.html) · [`📥 PDF`](v1.0/Under%20the%20Acacia%20Tree.pdf) |
+| [v2.0](v2.0/) | New iteration (in progress) | — |
+
+---
 
 ## 🌐 Read Online
 
-✅ **Read online:** https://walusimbi-leon1.github.io/under-the-acacia-tree/book.html
-- 📥 **[Download PDF](https://walusimbi-leon1.github.io/under-the-acacia-tree/Under%20the%20Acacia%20Tree.pdf)**
+- **v1.0 HTML:** https://walusimbi-leon1.github.io/under-the-acacia-tree/v1.0/book.html
+- **v1.0 PDF:** https://walusimbi-leon1.github.io/under-the-acacia-tree/v1.0/Under%20the%20Acacia%20Tree.pdf
+
+---
 
 ## 📚 Part of the SGSS Literary Collection
 
