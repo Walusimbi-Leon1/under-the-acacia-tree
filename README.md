@@ -51,7 +51,7 @@ under-the-acacia-tree/
 | Version | Title | Description | Files |
 |---------|-------|-------------|-------|
 | [v1.0](v1.0/) | *Under the Acacia Tree* | A romance about Grace Nabatanzi returning to her village | [`book.md`](v1.0/book.md) · [`book.html`](v1.0/book.html) · [`📥 PDF`](v1.0/Under%20the%20Acacia%20Tree.pdf) |
-| [v2.0](v2.0/) | *My Secret Desires* | An international story of a young man caught between friendship and confession, across continents | [`book.md`](v2.0/book.md) |
+| [v2.0](v2.0/) | *My Secret Desires* | An international story of a young man caught between friendship and confession, across continents | [`book.md`](v2.0/book.md) · [`book.html`](v2.0/book.html) · [`📥 PDF`](v2.0/My%20Secret%20Desires.pdf) |
 
 ---
 
@@ -62,7 +62,8 @@ under-the-acacia-tree/
 - 📥 PDF: https://walusimbi-leon1.github.io/under-the-acacia-tree/v1.0/Under%20the%20Acacia%20Tree.pdf
 
 **Version 2.0 — My Secret Desires**
-- 📖 Read: (HTML coming soon)
+- 📖 Read: https://walusimbi-leon1.github.io/under-the-acacia-tree/v2.0/book.html
+- 📥 PDF: https://walusimbi-leon1.github.io/under-the-acacia-tree/v2.0/My%20Secret%20Desires.pdf
 
 ---
 
