@@ -1,0 +1,17 @@
+{
+  "title": "My Secret Desires",
+  "subtitle": "A Novel",
+  "genre": "Literary romance",
+  "author": "Walusimbi Leon (SGSS)",
+  "description": "A young man (Alex) caught between the safety of friendship and the terror of confession — torn across continents, languages, and the quiet walls he built around his heart. He is in love with Anya.",
+  "style": "Lyrical, introspective third-person prose. Emotionally raw, sensory, with long meditative sentences. Present-tense intimacy.",
+  "characters": "Alex — young man in East London, guarded, deeply feeling; Anya — the woman he loves from a distance.",
+  "setting": "East London and across continents.",
+  "notes": "The story is at the early chapters — the confession has not yet happened. Build the tension of unspoken love, the café, the messages he composes and deletes. Deepen Alex's inner world and Anya's presence.",
+  "chapterTitle": "Chapter",
+  "mdFiles": ["v2.0/book.md"],
+  "htmlFiles": ["v2.0/book.html"],
+  "indexInject": null,
+  "mdHeadingLevel": 3,
+  "targetWords": 2000
+}
