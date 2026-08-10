@@ -171,3 +171,144 @@ He was going to Moscow. He was going to see her. And for the first time in three
 ---
 
 *End of Version 2.0 — 5 pages*
+
+### Chapter 4 — The Days Between
+
+The days between the phone call and the flight are the longest of Alex's life.
+
+He wakes the morning after the confession with the phone still clutched in his hand, screen dark, battery dead. The words from the night before replay in his mind like a song he can't stop humming, each phrase familiar but somehow alien, as if someone else had spoken them. *I'm in love with you.* Three years of silence, broken in a single sentence. He lies in bed staring at the ceiling, and the morning light crawls across the plaster like honey, slow and golden, and he thinks: *I have never felt more alive. I have never felt more terrified.*
+
+He calls in sick to work. He never calls in sick, and the voice on the other end of the line sounds genuinely concerned, asking if he's alright, if he needs anything. Alex says he just needs a day, and he's not lying, though the day he needs isn't the one he's getting. The day he needs is in Moscow, with Anya, with the conversation they haven't had yet.
+
+He should book the flight. That's the rational thing to do. He opens his laptop at the kitchen table, the same table where he's eaten a thousand solitary dinners, and stares at the search engine for almost an hour without typing a single keystroke. The cursor blinks at him with infuriating patience. *Search flights to Moscow.* It should be simple. It should be the easiest thing in the world.
+
+But there is something paralysing about the act itself, about the finality of a booking confirmation, about the knowledge that once he clicks that button, everything changes. The phone call was a door opening. The flight is a step through it.
+
+He finally types the search query with the clumsy determination of a man constructing a sentence in a language he doesn't speak. London to Moscow. The results fill the screen: a hundred flights, a hundred versions of the same journey through the same sky. He scrolls past the dates Anya mentioned, past the prices and the departure times, and highlights the option that lands in Moscow at noon. *Sheremetyevo International Airport.* He has never been there. He has only ever known Moscow by its metro stations and river views, by the cold wind off the Moskva and the way Anya's scarf caught the streetlight on that night in winter — *was it really three years ago?* — when she taught him the word *toska* and he felt the word settle into his chest like a stone.
+
+He thinks about that night now, the way the city had seemed to hold its breath around them, the way her breath made small clouds in the cold air. She had been telling him about her grandmother's dacha, about summers of strawberries and the smell of woodsmoke, and he had been trying to listen, truly listening, but all he could think was: *I would cross continents for the sound of your voice.* And here he is, three years later, three years of half-sleep and half-life, about to do exactly that.
+
+He books the flight. His hands are shaking when he enters the payment details, and he laughs at himself — a dry, hollow sound in the empty flat — because he's a grown man booking a plane ticket, not proposing marriage. But it feels like more. It feels like the moment in a story where the hero cuts the rope that keeps him tethered to shore, and there is no going back.
+
+---
+
+The next day, he tells Jessie.
+
+They are in the same café where they usually meet — a small place on Brick Lane with mismatched furniture and coffee that tastes like burned caramel. Jessie arrives late, as always, her hair still damp from a shower, her messenger bag sliding off one shoulder. She takes one look at his face and stops.
+
+"What's happened?"
+
+"Nothing bad. I mean, I don't think it's bad. I think it might be good. I don't know."
+
+"Eloquent as always, mate. Sit down, I'll get you a tea."
+
+He sits. She orders. When she returns with two cups, she slides into the chair across from him and fixes him with a look that says *spill it, or I will gouge it out of you.*
+
+"I told her," he says.
+
+"Told who? Told her — Anya? You told Anya?"
+
+"I told Anya. I called her, and I told her I'm in love with her."
+
+Jessie sets down her cup. Her face goes through a sequence of expressions too fast to follow — surprise, something else, a flicker he can't name — and then settles into careful neutrality. "Right. And how did she take it?"
+
+"She cried."
+
+"Shit. Is that good crying or bad crying?"
+
+"I don't know. She asked me to come to Moscow. She wants to talk about it properly."
+
+A short silence. Jessie stirs her tea, watching the liquid swirl. Alex watches her, aware of a current under the surface of their conversation, something unspoken that he has always been careful not to acknowledge.
+
+"So you're going."
+
+"I booked the flight this morning."
+
+"Right." Another pause. Then she looks up, and her smile is almost real, almost warm. "Good for you, Alex. I mean it. It's about bloody time you did something brave."
+
+He wants to ask her if she means it. He wants to ask her if there's anything she needs to say. But he doesn't, because that's who Alex is — the boy who never asks, who waits for other people to make the first move, who mistakes silence for safety.
+
+Instead, he says, "What if it goes wrong?"
+
+"It might," she says, with the bluntness that is her signature. "It might go brilliantly, or it might go horribly, but it's going to go *somewhere*. And that's better than floating in limbo forever, isn't it?"
+
+He thinks about limbo. He has spent so long in it that he knows its geography intimately: the flat in East London, the desk at work, the café where he orders the same drink and sits in the same seat. The small shrine he has built to a woman he hasn't seen in three years — a Russian novel on his shelf with her annotations in the margins, a poem she sent him once, folded in his wallet, worn at the edges. Limbo is safe. Limbo is manageable. Limbo is a place where no one can reject you because no one can truly reach you.
+
+But Anya has reached him. Through the phone line, across four thousand kilometers, she has reached through the walls of his quiet fortress and touched something that was never supposed to see the light.
+
+---
+
+That night, he writes messages he will never send.
+
+He sits at his kitchen table, laptop open, the same blank page staring back at him. His phone is beside the laptop, and he picks it up, opens the thread with Anya, and types:
+
+*I'm scared I'm going to ruin everything.*
+
+He reads it. Deletes it.
+
+Types: *I'm scared you'll look at me and realize you made a mistake.*
+
+Deletes it.
+
+Types: *I'm scared I'll get to Moscow and not know what to say, and we'll just stand there in the airport, and all these words I've carried for years will turn to ash in my mouth.*
+
+He stares at the message. It is honest, perhaps the most honest thing he's ever written to her, and that is precisely why he deletes it. Because honesty is what he's already given her, and he doesn't know if he has room in his chest for the version of himself that is *only* honest. He needs the distance writing gives him, the careful arrangement of words on a page, the same way he needs the distance between continents. It protects him from the unbearable weight of the present tense.
+
+Instead, he writes something else — a message he sends at 11:52 PM, three days after the confession:
+
+*Moscow in four days. I'm not sure I'll recognize you. I'm not sure you'll recognize me. I'm starting to realize that maybe we never knew each other at all, only the versions of each other we could bear to show over a screen. But I want to know the rest. I want to try.*
+
+The reply comes almost immediately. *Four days. I'm counting.*
+
+He reads her message three times. Then he lies in bed with the phone on his chest, staring at the ceiling, and the moon through his window is thin and pale, a sliver of a thing, and he thinks of her smile — the one he's only ever seen photographs of, the one that lives in his memory as a fragment, a collection of pixels that somehow make up a whole. He wonders if he will recognize it in person. He wonders if she will recognize him at all, the man who has been a voice and a text message and a photo on a screen for three years, who is now about to become something frighteningly solid: a body, a face, a presence.
+
+A person who can be rejected in real time.
+
+---
+
+The flat is a mess of preparation in the days that follow.
+
+He packs and repacks, discarding clothes and then retrieving them, folding shirts with an obsessive precision that his grandmother would have approved of. He reads the Russian phrasebook he dug out of storage, muttering greetings and courtesy phrases to the walls of his kitchen, and wonders why he never learned more of her language, why he let the distance be the excuse for everything he didn't try.
+
+He goes to work, and his colleagues notice the change in him. They ask if he's had a haircut, if something good happened, if he's in love — they say it as a joke, the way colleagues do, but the joke lands too close to the truth and Alex stumbles over his answer.
+
+He calls his mother on the second day, and she hears it in his voice, that particular quality of color that hasn't been there in years.
+
+"What's happened, Alex?"
+
+"I'm going to Moscow."
+
+"For her? The Russian girl?"
+
+"Yes."
+
+A pause. Then, gently: "It's about time, love."
+
+He nearly cries at that. He doesn't know why — it's a simple thing, a blessing framed in four words — but it breaks something inside him, some dam he didn't know he was holding. He hangs up before his voice betrays him.
+
+---
+
+There is a moment, the night before the flight, when he almost cancels.
+
+He is standing in his bedroom, suitcase packed and waiting at the door, and the enormity of it all descends on him with the sudden weight of a fever. Three years. He has loved her for three years — more than three years, if he counts the time before Moscow, the time when she was just a voice in a language exchange app, a stranger on the other side of a screen who slowly became the axis of his days. He has built his entire inner world around her. He has dreamed conversations they've never had, walked imaginary streets in cities they've never visited together, rehearsed a thousand versions of this exact trip. And now it's real.
+
+Real means it can end.
+
+Real means she can look at him and feel nothing, can see his face and realize that the voice she grew to love was attached to a body that doesn't match her imagination. Real means he can finally lose her in a way that is final and absolute, that no amount of deleted messages or unspoken words can ever take back.
+
+He stands at the window, looking out at the wet London streets, and he almost picks up his phone to call her. To tell her he can't come. That he's sorry, that he made a mistake, that some things are better left in the warm fog of possibility.
+
+But then he remembers her voice from the phone call — the way she said his name, like it cost her something. The way she asked him to come. The way she said *I want to see you* with a fragility that mirrored his own.
+
+He doesn't call.
+
+He packs the last items — passport, phone charger, the worn copy of the Russian novel with her annotations in the margins — and he slips the folded poem into the inside pocket of his jacket, pressed against his heart.
+
+Tomorrow, Moscow.
+
+Tomorrow, the rest of his life.
+
+The suitcase waits at the door like a promise, and Alex lies in his bed, eyes open in the dark, and does not sleep for a very long time.
+
+---
+
