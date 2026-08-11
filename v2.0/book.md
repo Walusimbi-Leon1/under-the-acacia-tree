@@ -310,5 +310,71 @@ Tomorrow, the rest of his life.
 
 The suitcase waits at the door like a promise, and Alex lies in his bed, eyes open in the dark, and does not sleep for a very long time.
 
+### Chapter 5 — The Weight of Arrival
+
+Morning comes the way mornings come after sleepless nights: too quickly, and not nearly quickly enough. Alex's eyes are open before the alarm, his body already tensed, already in transit. The room holds its breath around him. The suitcase waits at the door, and the pale October light slants across it like a runway.
+
+He showers with the water hotter than he can stand, letting it scald the sleeplessness from his skin. He dresses with the careful deliberation of a man preparing for a border crossing — the specific ritual of putting on his body a version of himself he wants her to see. Jeans that fit him well. The blue shirt his mother bought him two Christmases ago, soft from washing, the collar worn to a familiar ease. The jacket with the folded poem pressed into the inner pocket, over his heart. He touches the fabric there, once, as if checking that the words are still with him.
+
+The taxi arrives at six. East London is quiet in the grey dawn, the streets damp and gleaming, the kebab shop on the corner still shuttered. He looks out the window at the landmarks of his small life — the café where he orders the same oat latte and sits in the same seat by the window, the bench where he sat that afternoon after the phone call, trying to compose himself, the tube station where he has stood a thousand mornings, a man among commuters, indistinguishable. He wonders if he will ever see these streets the same way again. He wonders if he will come back to them a different person, or come back to them carrying a wound he can't name.
+
+At the airport, the world is all fluorescence and announcements. He checks his bag, he holds his passport, he moves through security with the automatism of someone who has done it before and remembers nothing of the doing. And all the while, his phone is in his pocket, warm with the weight of an unsent message. He has thought of texting her when he lands — *I'm here* — but that feels too small, too ordinary for the enormity of what is happening. He has imagined this moment so many times that he has run out of language for it.
+
+The flight is four hours. He does not sleep. He doesn't watch the film. He holds the Russian novel on his lap, the one with her annotations in the margins, and he traces the ink marks with his thumb. Her handwriting is small and angular, the Cyrillic letters pressed into the page with a certain force — the handwriting of a woman who knew what she thought and wrote it down with no apology. He reads the annotations again, even though he can only parse fragments of the Russian. Here: a curved line under a phrase about longing. Here: a single word in the margin, *грусть* — sadness. Here: a small drawing of a crescent moon, next to a passage about the persistence of unrequited feeling. He has studied these marks for three years, the way other men study scripture. They are the closest thing he has to her fingerprints.
+
+He remembers the first time he heard her voice. Three years ago, in a language exchange app, she had been assigned to help him with his Russian. He had been twenty-four, recently alone, living in the flat in East London with the cardboard boxes still not unpacked, and he had downloaded the app out of a vague sense that he should be doing something useful with his loneliness. She had introduced herself with the formal politeness of someone speaking a second language, and then, midway through the lesson, she had laughed at something he said — a mispronunciation, probably, or an unintended joke — and the sound of it had gone through him like a bell. He had replayed that laugh in his mind for days. He had kept the recording of their first call saved in a voice memo app, a thing he would never admit to, a thing he listens to on certain nights when the flat is too quiet and the distance feels insurmountable.
+
+Somewhere above the clouds, he presses his forehead against the cold plastic of the aeroplane window and looks down at Europe passing beneath him like a map he is slowly learning to read. Fields, rivers, the spidery branches of roads. And beyond that, somewhere in the grey autumn haze, Moscow. Her city. The city where her mornings begin, where she buys coffee from a machine on her way to work, where she looks out of her window at a skyline he has only ever seen in photographs. It is strange, he thinks, to be so close to a person's entire life and to have never touched any part of it. To have loved her across this distance for so long that the distance itself has become a kind of lover — a cruel one, but a familiar one. He is leaving that lover now. He is stepping into the arena of the real.
+
+The descent begins over the suburbs — grey apartment blocks, the slow bending of the plane, the pressure building in his ears. The window reveals a city of rooftops and frozen smoke, rivers like silver threads, the great spires of the Kremlin rising in the distance. His throat tightens. He thinks: *She is in there somewhere, in that immense sprawling thing, and I am about to become real to her.* The landing gear groans, the wheels touch the tarmac with a jolt, and the flight is over. There is no turning back now.
+
+Customs is slow. He stands in line, his passport growing damp in his hand, and he tries to remember the Russian phrasebook — *Здравствуйте* for hello, *спасибо* for thank-you — but the words scatter in his mind like startled birds. He passes his passport to the officer, who looks at him with the undreadful blankness of someone who has seen a thousand lonely travellers, and stamps it. The sound of the stamp is final. It says: you have arrived. It says: the rest of your life begins in the next room.
+
+He walks down the corridor toward arrivals. His heart is doing something strange — skipping, accelerating, making a rhythm he can't control. The automatic doors slide open and the noise of the arrivals hall hits him: a roar of voices, car horns, the announcer's voice overhead, a language he half-understands. He is surrounded by faces he has never seen, and none of them is hers. He looks, and looks, scanning the crowd in that particular way of a person who has been searching for three years. He pulls out his phone. Her last message is still there at the top of the thread — *Four days. I'm counting.* — and the weight of that simple sentence nearly brings him to his knees.
+
+He types: *I'm here.*
+
+And then, before he can overthink it — before he can delete it, before he can paralyze himself with all the ways it might go wrong — he presses send.
+
+He looks up.
+
+And there — across the hall, between the moving river of travellers — there is a woman. She is standing very still amid all the motion, her hands clasped in front of her, wearing a grey coat he has seen in a photograph once, her dark hair caught in an elastic, and her face is the face he has carried with him for three years on a phone screen and in a novel's margins and in the dark hours of his East London nights. She is closer than she has ever been. She is real. She is looking at him, and he is looking at her, and somewhere between their gazes, a distance of four thousand kilometres collapses into a single breath.
+
+He thinks of everything he has wanted to say — every rehearsed line, every perfect phrase, every beautifully arranged sentence he has composed and deleted in the small hours. And none of it survives the contact. None of it is needed. Because she is walking toward him now, and the poem in his jacket, pressed over his heart, grows warm like a living thing, and Alex opens his mouth, and for the first time in his guarded, careful life, he lets the silence speak for him — waiting, trembling, present-tense, wholly and terrifyingly alive.
+
+She stops a step away from him. Up close, she is more real than any photograph. There is a small crease between her brows that he has never seen in the images she sent him, and a tiny scar at the corner of her lip, and her eyes are the colour he has tried to describe in half-written poems and given up on, because there is no name for the particular brown-gold of them in the airport light. She smells of cold air and coffee and something floral he can't identify. She is looking at him like she is doing the same inventory — the face he has only ever seen as a picture, a voice on a phone, a set of words on a screen — now solid, now inhabiting the same square metre of the world as she does.
+
+"Alex," she says.
+
+The sound of his name in her voice, live, unmediated, unrecorded, is a physical sensation. It runs through his chest like a struck chord.
+
+"Anya."
+
+He doesn't remember deciding to reach for her. But his hand is moving, and her hand is moving, and then they are standing there at the centre of the roaring arrivals hall, holding each other's hands with a tenderness so deliberate it feels like an act of translation — every late-night message, every unspoken sentence, every year of distance and longing, passing between their palms in a silence that is anything but empty.
+
+"You're here," she says.
+
+"I'm here."
+
+And she laughs — that same laugh, the one from the recording, the one he has listened to in the dark flat on the nights when the distance felt like drowning. It is louder in person, fuller, brighter, and it breaks something open inside him. He laughs too, a startled sound, because of course she laughs, because of course this is how it begins — not with confessions or grand declarations, but with two people holding hands in an airport, laughing at the sheer impossibility of finally being in the same place, the same time, the same present tense.
+
+"I don't know what to say," he admits. "I've been rehearsing for three years and I've forgotten all of it."
+
+She squeezes his hand. "Say it in Russian."
+
+He grasps for the words, fumbling through the phrasebook in his mind, and lands on something awkward and small: "*Ты... красивая.*" — You are beautiful. It comes out stilted, the accent clumsy. She smiles, and the smile is the one, the real one, the full and undivided version that he has only ever seen in photographs, and it is worth every hour of sleeplessness, every deleted message, every year of limbo.
+
+"Your Russian is terrible," she says.
+
+"I know."
+
+She doesn't let go of his hand. "Come. The city is cold, but I know a place that serves terrible coffee and excellent cakes." She pauses, and then, quieter, with a note of the same fragility he heard in her voice on the phone that night: "How long do you have?"
+
+He looks at her. The airport lights are harsh, and the crowd surges around them, and somewhere beyond the glass the city of Moscow is waiting — vast and unknown and full of all the things he has been too afraid to reach for. The suitcase is at his feet. The poem is pressed against his heart. The rest of his life is standing in front of him, holding his hand, asking him how long he has.
+
+"As long as I need," he says. "As long as you'll have me."
+
+Her grip tightens. And for the first time in three years, Alex does not think about what he will say next. He does not compose the message, does not delete it, does not brace himself for the exact moment when it could all go wrong. He just walks with her toward the door — into the cold, into the city, into the terrifying and beautiful weight of a beginning.
+
 ---
 
