@@ -510,5 +510,95 @@ And because he cannot sleep, he composes the message in his head — the exact s
 
 He still has not said it.
 
+### Chapter 7 — Something for Alex
+
+Morning comes to Moscow the way it comes to all cities — grudgingly, in increments — but here it feels particular, a slow leak of grey through the curtains, the radiator ticking like a clock made of metal and old water. Alex lies where he has lain all night, the springs of the sofa singing their complaint into his back, his phone on silent in the pocket of his coat where it hangs by the door, and his chest full of the folded bird that did not find its way under her door. He listens to the silence and finds it is not silence at all. The house breathes. The pipes murmur. Somewhere in the other room, on the far side of a wall he has mentally mapped inch by inch, Anya is asleep, and the knowledge of that is a weight on his sternum, a stone he cannot put down.
+
+He rises before the birds, before Moscow itself has decided to wake, the light outside still thin and weak as tea. He pads into the kitchen in his socks. The floorboards confirm to him the limits of their cooperation, and he remembers the old joke he told her once, that he could not walk in his own house without announcing himself, and she had replied, in some voice note played at three in the morning, that she could find him in any room by the creaking, that he was a house that told on itself. He stands now, held still, and considers the evidence of her small kingdom: the teacup with its lipstick print on the windowsill, a block of butter softening on the counter, a jar of sour cherry jam, a wool cardigan draped over the back of a chair like it had been shed in a hurry, and the note by the kettle, the Post-it, the list in her slanting hand — *bread, butter, something for Alex*. He reads it twice. The sight of his own name in her handwriting, unconsidered, a practical errand, a mercy she performed without ceremony, undoes him in a way he was not prepared for. *Something for Alex.* She was thinking of him yesterday. She was in a shop, and she wrote his name, and the wanting him to be fed was as ordinary as that. He touches the edge of the paper with the back of his finger. He does not allow himself to take it.
+
+The bedroom door opens, and she is there.
+
+She is not the woman of the arrivals gate, or the café, or the walk by the frozen river. She is a rougher version — unarmed, unlit, fresh from the country of sleep — and the difference is the most beautiful thing he has ever seen. Her hair is loose and flattened on one side. She is wearing an old shirt, a man's shirt, the sleeves rolled twice, the hem reaching her thighs, and that single detail threatens to foment an entire history he has no right to. Her face is soft. She blinks at him as if she has forgotten he is there, and then she remembers, and her smile arrives slowly, like thaw.
+
+"You're awake," she says. "The sofa killed you, I can tell."
+
+"The sofa is a war crime," he says. "But I survived."
+
+"That is the Soviet design. It builds character."
+
+"It builds something, but I don't know that character is the word."
+
+She laughs — that laugh, that large and unafraid laugh, filling the small kitchen — and he realizes with a terrible clarity that he could live inside that sound. That he already does. That he has been living inside it for three years, in the recordings she sent him, the voice notes saved in a folder called *work*, the memory of it replayed in the dark. Now it surrounds him in person, and there is no screen between his ears and the reality of her, and he understands at last that distance was not the enemy. Distance was a mercy. Proximity is the thing that will kill him.
+
+She makes tea, moving through her own kitchen with the unconscious grace of a woman inside her own life, and he watches her hands — the hands that wrote the messages he has reread ten thousand times, that mailed the book from Moscow, that typed the words *read this and think of me*. Those same hands are now opening a tin of loose leaf, now filling a kettle, now pushing a strand of hair from her face. It is absurd, this ordinariness. It is a miracle, this ordinariness. She asks about his sleep, about London, about the flight, about his mother, his street, his job, the stray cat that came to his window in the rain — she remembers the cat's name, remembers the colour of his building's door, remembers that he takes his coffee black and grim, and it is terrifying to be held that fully in another person's mind. He has spent three years learning everything about her, and it has never once occurred to him that she was learning him back, that all the while he was taking notes, she was taking notes too.
+
+While she talks, she slices bread, and the butter comes out, and the jam, and she builds him a breakfast the way she has imagined a visitor might need breakfast, and he thinks: *I am being taken care of. I have never once been taken care of.*
+
+"A penny for them," she says, pushing a plate across the counter. "You are thinking very loudly."
+
+"I'm thinking I'm not used to this."
+
+"To jam?"
+
+To you. To the possibility of you. He smiles instead and takes a bite of bread he cannot taste. The light outside has strengthened a little, the grey going silver, and the radiator ticks, and she is wearing his — no, someone's — too-large shirt, and he is alive in a way that hurts, and he says nothing.
+
+Later, on the street, the city comes to meet them. The cold bites. The snow is no longer the blue crust of the evening before but a dull grey slush, and the people of Moscow move along the pavement with their heads down, scarves wrapped to the eyes, steam rising from the cups they carry. She takes his arm — casually, conversationally, the way old friends do — and the weight of her hand on his forearm is a brand he will feel for weeks. The city opens around them: the long boulevards, the frozen canal, the gold of a distant dome catching a beam of reluctant sun. She tells him about this street, that bakery where the piroshki are worth the queue, this bridge where the students write their names in the frost. She points with the proprietary fondness of someone who has chosen this city and knows its moods. He listens. He would listen to her read a telephone directory. He would listen to her read the terms and conditions of something. Her voice is a country, and he has been granted a visa, and every minute of it is borrowed time.
+
+Then the phone. It happens in the café.
+
+She has brought him to a narrow room with low ceilings and fogged windows, the air rich with burnt sugar and cardamom, and she orders for him in Russian, and there is a moment — three words exchanged with the barista, a glance, the barista laughing, Anya laughing too — that he does not understand. The helplessness of it is like being underwater.
+
+"What did you tell her?" he asks, once the barista has gone.
+
+"I told her you were a foreigner who likes his coffee like a Russian. Black, and with suffering."
+
+"Suffering."
+
+"It's how you take it. You get it from somewhere, this black-and-grim thing, and I have decided it is the taste of carrying something you refuse to put down."
+
+She looks at him across the table. The café is loud around them — cups knocking, the hiss of the machine — but the sound of it falls away. He has the sudden, terrifying sensation of being read, not like a book but like a letter, line by line, in a language he did not know was legible.
+
+"Alex," she says. "You keep checking your phone and putting it away again, like it is on fire."
+
+He is, he realizes, doing exactly that. It is a nervous reflex, the same gesture that defined his lonely afternoons in East London: the screen lighting up, the sentence composed, the deletion. He has a mental catalogue of every message he has written and deleted in three years. He could compile them into a book. He could compile them into a monument: *I miss you in a way that is not grammatical. I love you in a way that does not have a tense. If I told you what I am thinking, I would lose you — no, I would win you, and that is worse.*
+
+"Bad news?" she asks.
+
+"Not bad," he says. "Just the kind you can't prepare for."
+
+"Then come back to the table," she says. "Whatever it is will still be there after your coffee. It always is."
+
+He puts the phone away. He puts his hands around his cup, and she watches him, and he watches her hands, and there is a moment — a lifetime, a hairsbreadth — in which it would be so easy to reach across the surface between them and take her hand. The distance is six inches. It is the Atlantic. It is three years of unsaid things. He does not move. He burns.
+
+And then she says, quietly, as if it costs her something too: "Why did you come, Alex? I never asked you properly. We wrote for three years, and you came. People don't do that. People don't cross a continent for a pen pal. But you did. Why?"
+
+There it is. The door, open again. She is looking at him with that surgical attention, and he can feel the seams of his carefulness straining. The poem is in his coat — the folded bird — and he could lay it down on the table between them and let it speak. The words are in him, fully formed, the perfect sentence, the one he has kept like a coin, testing its weight in the dark. He opens his mouth.
+
+"I came because you told me to read that book and think of you." The truth wearing a costume. "And I have been thinking of you since. I thought I should come and see what that looks like."
+
+"And what does it look like?"
+
+He holds her gaze. The moment hangs — a held note, a breath. The café is a roar. His heart is a fist in his throat. "It looks exactly like this," he says. "It looks like the two of us, in a café, in a city I don't know, in a season that isn't mine. It looks like you telling me to relax because the remaining parts are just punctuation. It looks like the reason I booked two weeks instead of one."
+
+She does not look away. Something crosses her face — a heat, a signal, a thing he cannot name but recognizes, because he has seen it in his own mirror: the surprise of being seen. "Two weeks," she says again, slowly, weighing it. "A beginning."
+
+"A beginning of what?"
+
+"You tell me."
+
+The doorway opens, again. The words are on his tongue. He can taste them — salt, cold, the metallic edge of terror — and he opens his mouth to say them, and at the same moment, by some cruel and impeccable choreography, the barista arrives with their cups. The cardamom rises in a plume. The moment fractures into steam and noise.
+
+Later, standing at the counter, waiting to pay, she says without turning around: "You almost told me something in there."
+
+He does not answer.
+
+"You can tell me on the river," she says. "We'll walk in the evening. You can tell me on the river."
+
+It is a promise and a doorway and a sentence that terrifies him more than any sentence he has ever composed: *you can tell me on the river.* He thinks: *I have until the river. I have from now until the river to learn how to say it, or to learn how to live with not saying it.* One of those things, he knows, is dying. Both of them, maybe.
+
+In the cold air of the afternoon, he takes out his phone. The café is gone behind them. He walks half a step behind her, watching the way the light falls across her shoulders, and he composes the message — the one he has composed a thousand times — and he reads it, and he deletes it, and she does not look back, and the snow begins again, small and sharp, and he thinks: *I will say it on the river. I will say it on the river. I will say it—*
+
+But the word *will* has never been enough for the men who carry folded poems in their hearts. He knows this. He knows it the way he knows the exact shape of the creases in the paper, the exact weight of the unsaid, the exact address of the place inside him where the sentence lives and will not die. And still, he walks on. The snow fills his footprints behind him. She does not look back. The folded bird stays folded.
+
 ---
 
