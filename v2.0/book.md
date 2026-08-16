@@ -600,5 +600,159 @@ In the cold air of the afternoon, he takes out his phone. The café is gone behi
 
 But the word *will* has never been enough for the men who carry folded poems in their hearts. He knows this. He knows it the way he knows the exact shape of the creases in the paper, the exact weight of the unsaid, the exact address of the place inside him where the sentence lives and will not die. And still, he walks on. The snow fills his footprints behind him. She does not look back. The folded bird stays folded.
 
+### Chapter 8 — The River Curves
+
+The streets of Tallinn have a way of holding snow the way men hold secrets — lightly, briefly, as if afraid the weight will be noticed. He watches it settle on the crowns of her hair as they walk, fine as powdered glass, and she does not brush it away. Perhaps she likes the feel of winter touching her skin. Perhaps she has lived here long enough to make peace with the cold, to treat it not as enemy but as accent, the particular grammar of her adopted country.
+
+He has been counting his footsteps. It is a new habit, born today, born between the café and this hour that is gathering itself into evening. Three hundred steps. Four hundred. The river is somewhere ahead of them, patient, frozen, and with it the sentence he has carried in his chest for three years, the one that presses against his ribs like a caged thing that has learned the shape of its cage.
+
+"You're quiet," she says, not accusing. She glances back at him over her shoulder, and the movement catches the last of the light — the curve of her jaw, the dark of her eyes — so suddenly, so purely beautiful that he forgets what silence is for.
+
+"I'm learning," he says.
+
+"Learning what?"
+
+"How to say things correctly." A half-truth. All his truths are half now; he has been halving them for so long he is not sure what a whole one would look like.
+
+She slows until they walk abreast. The street is narrow here, old walls rising around them like the pages of a closed book, and he is aware of the geometry of the space — the width of her shoulder from his, the cold air between their hands, the precise, unbearable distance that could be closed by a decision. He does not close it.
+
+"You wrote to me for three years, Alex." She does not look at him as she says it. Her voice is even, unhurried, the way one speaks to a river: continuous, without demand. "Three years of letters. You told me about the construction outside your flat, the pigeons with their revolutionary opinions, the man who sells fruit at the market who always asks if you have a girlfriend and always looks disappointed when you say no."
+
+He laughs despite himself. "He does. He makes the same face every time. Like I've personally let him down."
+
+"Perhaps you have." A corner of her mouth lifts. "So I spent three years learning the architecture of your days, and I still don't know the most important thing about you."
+
+"Which is?"
+
+She stops walking. The street is empty. The snow has thinned to a suggestion, an almost-hesitant dusting, and the sky above the rooftops is the color of old silver. She turns to face him fully, and there is no theater in it, no coquetry — just a woman standing in winter light, looking at a man who is trying not to drown.
+
+"You came here," she says. "People don't cross continents for pen pals, Alex. People don't book two weeks of their life for someone they've only seen in photographs. In the letters, I could pretend it was easy. I could pretend you were just a friend who wrote well. But standing here, looking at you, I find I can't pretend that anymore."
+
+The words fall like stones through the air between them. He wants to catch them. He wants to let them fall. Both are impossible.
+
+"Anya—"
+
+"I know why I asked you to come." Her voice is steady, but there is something underneath it now, a current, a heat. "I have known for three years. I read your letters the way other people read maps — to find the way. To find where you were leading me. And I thought, if I could see you, if I could see the hands that write those sentences, I would understand something. I don't know what. Something about punctuation. Something about the spaces between the lines."
+
+"There aren't spaces between the lines," he says. "Just ink."
+
+"Liar."
+
+The word lands softer than it should. A caress disguised as a reprimand. She is looking at him with those dark eyes — the ones he had tried to describe in a dozen letters, the ones that defeated every metaphor — and he understands, suddenly, why the poets drown: not because the water is cruel, but because it looks so much like light.
+
+"The river," he says. His voice sounds strange to him, like a recording of himself. "You said we'd walk on the river."
+
+"I said you could tell me on the river." She holds his gaze. "The river is still ahead of us."
+
+They walk on.
+
+---
+
+The river, when they reach it, is not a river at all. It is a field of white, a frozen surface stretched between the bridges, and the snow has laid itself across it in long, sweeping strokes like a sentence being written by a careful hand. There are figures far out on the ice — a child dragging a sled, a man walking a dog that has gone solemn with cold — and the lights of the old town have begun to come on, amber and soft, staining the snow the color of candlelight.
+
+She steps onto the ice without hesitation. Her boots find their grip, and she walks forward with the confidence of someone who trusts the ground beneath her, who has learned the difference between what looks solid and what is. He follows more slowly, each step a negotiation, and she glances back and laughs — not cruel, not mocking, just delighted by his carefulness.
+
+"It's safe," she says. "The locals have been skating on it for weeks."
+
+"The locals weigh less than me."
+
+"You think you'll break the river?" The question is warm, almost fond. "You have such a high opinion of yourself."
+
+He steps onto the frozen surface and feels it hold. The ice is not dead but alive with sound — a low hum, a creaking, a language of pressure and release that he cannot translate but somehow understands. Above them, the sky has lost its last color and is turning dark, not the darkness of night but the darkness of winter, a blue-black silk drawn over the city.
+
+They walk in silence for a while. The child with the sled has gone. The dog is a distant shape, then nothing. The river curves ahead of them, and he thinks: *here is the curve. Here is the moment where the straight line of my life bends into something else, something I cannot see the end of.*
+
+"You told me once," she says, "that you write things and delete them. That you compose whole letters in your head and send none of them. Do you remember?"
+
+He remembers. He remembers every version of every sentence, the ones he typed and erased, the ones he wrote in the margins of his mind. He has a ghost library of unsent things.
+
+"I remember."
+
+"I thought," she says, "that perhaps you would tell me one of them. The one you think I should hear, perhaps. Or the one you're most afraid of."
+
+They stop in the middle of the frozen river. The ice is dark beneath their feet, a glass floor with the secret of the water asleep beneath it. The city is a ring of light around them, distant, irrelevant, a stage set for someone else's play. There is only the white, and the dark, and the two of them breathing.
+
+*I love you,* he thinks. The sentence is so simple it is obscene. *I have loved you since your third letter, the one about the stray cat, the one where you said you believed in nothing but that you were trying. I love you in present continuous, in conditional, in the rare subjunctive of a life that has not yet been lived. I love you the way a man loves a country he has never visited: absolutely, dangerously, with no evidence to support him.*
+
+The folded bird is in his coat. He can feel it against his chest, a paper heartbeat, patient as a pilgrim.
+
+"Alex." Her voice is quiet. "Whatever it is — the thing you have come so far to say — I want you to know that I have been afraid too. All year. Afraid that you would not come. Afraid that you would. Afraid that I have invented you, that you are just words on a screen, a clever construction I built to keep myself company at night. And then you walked out of the airport, and you were not words. You were a man. You were a man, and you were holding a book I had told you to read, and there was snow in your hair, and I thought: *this is what the sentences look like when they finally leave the page.*"
+
+The ice hums beneath them. Somewhere far off, a bell begins to toll — an hour, a liturgy, a measurement of time that has nothing to do with them.
+
+She steps closer. The distance between them — that six inches, that Atlantic — collapses to three. He can see the frost on her lashes, the small frayed edge of her scarf, the way the cold has reddened the tip of her nose. She is unbearably real.
+
+"I don't know what you came to tell me," she says. "But I know there is something. I have known for a year. And I want you to tell me the truth, even if the truth is that you came to say goodbye, even if the truth is that I have misunderstood everything. I can survive a truth. I cannot survive another three years of not knowing."
+
+He thinks of the letters. The hundreds of pages. The hours of his life spent arranging words for her, the way one arranges flowers in a vase, hoping the arrangement will be beautiful enough to stand for him. He thinks of the man at the fruit market, asking if he has a girlfriend, shaking his head at the no. He thinks of the message he has deleted so many times that his thumbs know the shape of the deletion, the little tap of the backspace key, the screen clearing itself like a breath.
+
+The folded bird is against his chest.
+
+"Anya," he says.
+
+The sound of her name in his own voice, spoken to her face, after all those years of speaking it only to the dark — it is a physical sensation, a key turning in a lock somewhere in his chest.
+
+"I came to tell you," he says, "that I have a notebook in my bag with forty-seven drafts of a letter I never sent you. I came to tell you that the man at the market asks about my girlfriend because I once looked at a photograph of you for so long that a stranger noticed I was in love. I came to tell you—"
+
+His voice stops. It is not a choice. It is a physical limit, a wall, the place where the sentence has always died before.
+
+She is looking at him. Her eyes are dark and bright and unreadable, and the distance between them is now the distance of a held breath.
+
+"You came to tell me," she says, "something you have not said to anyone."
+
+"Yes."
+
+"And are you going to say it?"
+
+The ice holds them. The river curves. The bell has stopped. There is no sound in the world except the wind and the small, human noise of two people breathing.
+
+He opens his mouth.
+
+The folded bird beats against his chest.
+
+And Alex, who has spent three years composing and deleting, who has made a monument of his own silence, who has crossed a continent with a sentence in his heart — Alex takes the last step.
+
+---
+
+The space between them is gone.
+
+She does not step back. Her eyes — those dark, unreadable, map-of-a-country eyes — do not leave his face. And the thing he has carried for three years, the thing he has wrapped in all those drafts and deletions, the coin he has kept in the dark — he says it.
+
+Not with words. Not yet. With something older.
+
+He lifts his hand. He touches her face. The cold of her cheek against the cold of his palm, two temperatures meeting, two winters negotiating a truce. And she does not move away. She closes her eyes. And the snow, which had stopped, begins again, small and soft, falling around them like the punctuation he has never been able to find.
+
+"Alex," she breathes.
+
+"I have a poem," he says. "It's not very good. It's about a bird I folded out of paper. It's about a man who spent years writing letters he was too afraid to send. It's about—"
+
+She kisses him.
+
+It is not a gentle kiss. It is not a careful kiss. It is a kiss that has been waiting for three years, that has crossed oceans and time zones, that has survived every draft and deletion, and it meets his as if it knows him, as if it has been reading him all along.
+
+The ice holds.
+
+The river curves.
+
+The folded bird, pressed between them, does not stir.
+
+When they break apart, the snow is in her hair and in his, and her face is close enough that he can see the place where her dark lashes meet, the small geography he has wanted to map with his thumb for three years.
+
+"That poem," she says. "Save it for later."
+
+"Of course."
+
+"In the evening. After dinner. In the hotel room. You can tell me then. About the bird. About the letters. About everything."
+
+"I will."
+
+"Promise?"
+
+He does not think of the word *will* and its insufficiency. He does not think of the men who carry folded poems in their hearts and never unfold them. He thinks only of her hand, finding his, her fingers lacing through his as if they have done it a hundred times, as if their hands have been rehearsing this in their sleep.
+
+"I promise," he says.
+
+And the snow continues its patient fall, and the river curves beneath them, and for the first time in three years, the sentence inside him is unafraid. It does not have to be said yet. It is not going anywhere. It has the whole long night, the whole borrowed time, the whole white wide world to be unfolded — slowly, in the morning, like a bird learning to trust the air.
+
 ---
 
