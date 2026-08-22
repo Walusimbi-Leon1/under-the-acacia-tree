@@ -842,5 +842,71 @@ Anya watches them fall. Then she looks at his empty hands. She lifts her own and
 
 She leans forward. This kiss is not like the one on the ice. That was a collision, a release. This is a conversation. It is slow, and deliberate, a tasting, a mapping. It is the first line of a new draft being written in real time, with no possibility of deletion. It is the unfolding.
 
+### Chapter 10 — The Country Without a Map
+
+The kiss ends, or rather it dissolves into something gentler — a rest, a breath, a forehead pressed against a forehead — and the room reassembles itself around them, as though it had been holding its breath too and only now remembered the mechanics of atmosphere. The torn paper still litters the carpet between their feet, white fragments against dark wool, and Anya looks down at them with an expression he cannot decipher — wonder, perhaps, or the particular grief that accompanies the end of something that was also a kind of beginning. He does not pick them up. Let them lie. Let the map remain scattered on foreign ground.
+
+"You are shaking," she says, and she is right, though he had not noticed it until she named it. His hands, still tangled with hers, are trembling with the fine, involuntary rhythm of someone who has just set down an enormous weight and whose muscles have not yet understood that the burden is gone. He opens his mouth to say something — an apology, a joke, another deflection disguised as honesty — but she lifts his right hand and holds it between both of hers, studying it as though it were a text in a language she is only beginning to learn.
+
+"Your hands are warm," she murmurs, running her thumb across his knuckles. "In the letters you wrote about always being cold. About the way the damp gets into your bones in East London. You said it was a loneliness cold, not a weather cold."
+
+He stares at her. The intimacy of being remembered in such specific detail, of having his own private admissions returned to him like a mirror held at an angle he had not anticipated, is almost unbearable. She has taken his offhand confession — the kind of thing you write at midnight when the world has thinned to the width of a phone screen — and treated it as something worth keeping. Something real.
+
+"You remembered that," he says.
+
+"I remembered everything," she says, and there is no sentimentality in her voice, no performance. It is a plain statement of fact, delivered with the same tone she might use to describe the weather or the route to the nearest tram stop. This is what undoes him — not the grand gestures, not the tearing of the poem, not the crossing of continents. It is the quiet, devastating specificity of her attention. She has been listening all along, even when he thought he was only speaking into a void.
+
+He lowers himself onto the carpet, sitting cross-legged among the remnants of the poem, and she follows, settling opposite him with her legs tucked beneath her. The lamplight from outside catches in her hair, turning it to something richer and more complex, a topography of shadow and gold. They sit like that, face to face, the scattered paper between them like a field of small white stones.
+
+"What happens now?" he asks, and he hates the childishness of the question, the naked need in it, but he asks it anyway because the architecture of pretense has been demolished and there is nothing left but the honest frame of his confusion.
+
+Anya considers this. She picks up one of the torn fragments, holds it to the light, squinting at the half-line of his handwriting visible on its surface. She reads it silently, her lips moving slightly, and he watches the micro-expressions that cross her face — recognition, amusement, tenderness — and thinks that this is what he has wanted, this is the country he has been trying to learn: the landscape of her responses, the terrain of her reactions, the way she processes the world one deliberate, careful detail at a.
+
+She sets the fragment down. "You are asking me what happens after you have torn up the only map you had?"
+
+"Yes."
+
+"That is the wrong question." She tilts her head, and there it is — that look, the one he has seen in photographs and imagined in the dark — a kind of fierce, amused clarity, as though she can see through the layers of him to the frightened architecture beneath and finds it endearing rather than pitiable. "The right question is: what happens now that you are here, in a room with me, and there is no map, and the country is real?"
+
+"And what is the answer?"
+
+"The answer is that I do not know. The answer is that this is what it means to be somewhere for the first time. You do not know the streets. You do not know which buildings are safe and which are crumbling. You walk, and you learn." She pauses. "You also get lost. Frequently. And the getting lost is not a failure. It is part of the knowing."
+
+He pulls his coat tighter around himself — not from cold, but from the reflexive need for a barrier, a membrane between his exposed interior and the vastness of what she is offering. The coat is ridiculous here, indoors, in the warm hush of her room, but she does not comment on it. She simply waits, with the patience of someone who understands that walls do not fall in a single evening, that some require demolition, some require erosion, and some require the slow, persistent pressure of a presence that simply refuses to leave.
+
+"There is something else," he says. "Something I need to say that I did not put in the fragments."
+
+"Then say it."
+
+He pulls his knees to his chest, wraps his arms around them, and presses his chin to the bone. The posture is almost fetal, a retreat to the original architecture of comfort, and he is aware of how it must look — this man who crossed an ocean and tore up a poem, now curling into himself on a stranger's carpet. But she is not a stranger. That is the whole problem. She is the least strange person he has ever known, and the most unknown. She is the paradox at the center of his life.
+
+"I am afraid," he says, "that you are only real here. In this room. On this night. That when the snow stops and the morning comes and the world resumes its ordinary business, you will become a letter again. A photograph. A concept. And I will go back to loving you in theory because the theory is safer than the country."
+
+She is quiet for so long that the silence takes on its own texture, a dense, living thing that fills the space between them. Then she reaches forward and unbuttons the top button of his coat. Then the second. Then the third. Her fingers are deliberate, unhurried, each button a small punctuation mark in a sentence she is writing with her hands. The coat falls open. He does not stop her.
+
+"You are not in East London now," she says. "You are here. And I am here. And this—" she places her palm flat against his chest, over the frantic, stuttering drum of his heart, "—this is not a letter. This is not a photograph. This is a man in my room, on my carpet, with his paper torn to pieces at his feet. This is as real as it gets." Her eyes find his, and there is no escape in them, no comfortable distance, only the terrifying, exhilarating depth of genuine encounter. "You will wake up tomorrow morning, and I will be making terrible tea in my kitchen, and you will see the daylight version of this room, which is less romantic and more drafty, and the spell will be broken, and you will be terrified. And I will be terrified too. And that is how you will know it is real. Because fear is not a theory. Fear is the most physical thing there is."
+
+He covers her hand with his own, pressing her palm more firmly against his heart, as though by increasing the pressure he can transfer the organ itself into her keeping. The gesture is absurd and earnest and he does not care. He is done with cool. He is done with the practiced, elegant distance of the man who writes poems and folds paper birds and never sends them. He is a country without a map, and she is the landscape, and he is standing at the border with his hands open.
+
+"Stay," she says, and the word contains multitudes — not just tonight, not just this room, but the larger stay, the one that means: do not go back to your distance, do not retreat into your drafts, do not dissolve into the screen again. Stay in the country. Stay in the fear. Stay in the real.
+
+He nods, because his voice has left him, retreated somewhere deeper than language, to a place where only the body speaks. He reaches for the lamp on the bedside table and switches it off. The room darkens, but not entirely — the snow outside reflects the city's glow through the window, casting a soft, silvery luminescence across everything, turning the torn paper on the carpet into a constellation, a scattered star chart of everything he was and everything he might become.
+
+They do not move to the bed. Not yet. That is another border, another crossing, and there is a grace in waiting, a beauty in the space just before. Instead, she lies down on the carpet among the fragments of his confession, and he lies beside her, facing her, their breath mingling in the narrow space between their mouths. She reaches out and traces the line of his jaw with one finger, mapping the geography of his face in the dim light, learning the contours as one learns a coastline — slowly, with the understanding that the shape will change with every tide.
+
+"Tell me something true," she whispers.
+
+He thinks of everything he could say — the litany of adoration, the catalog of small observations he has accumulated over months of watching her from across the digital divide — and he rejects them all, because they are finished things, polished and rehearsed, and she has asked for something raw.
+
+"I have never felt the carpet under my back," he says. "In London, I only ever lie in a bed. The carpet in my flat is dark and industrial and no one has ever lain on it by choice. I have been so afraid of the ground."
+
+She smiles. It is a sad smile, and a kind one, and it holds in it the particular sorrow of two people who have been lonely in exactly the same way.
+
+"The ground is good," she says. "It is where things grow."
+
+Outside, the snow continues to fall, erasing the sidewalks, softening the edges of the city, building new geography over the old. Inside, on the carpet, among the ruins of a poem that was never really a poem, two people lie facing each other in the dark, breathing the same cold air, learning the terrifying, irreplaceable vocabulary of presence. Neither sleeps. Neither moves to close the distance. The distance is itself a kind of conversation now — a held note, a sustained breath, the silence between two people who understand that what comes next cannot be rehearsed, only entered.
+
+Dawn is still hours away. They have time. They have all the time in the world, which is to say: they have this moment, and this moment, and this moment — each one unrepeatable, each one the only map they will ever need.
+
 ---
 
